@@ -12,9 +12,11 @@ This repository contains the code associated with the attack propsed in the pape
 6. This is a sample code for training on Yahoo Answers dataset.
 
 ## If you find this project useful, please cite
-@article{MineGrad2025, 
-    title={Minegrad: Gradient Inversion Attacks on LoRA Fine-Tuning}, 
-    journal={Proceedings of the Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics}, 
-    author={Sami, Hasin Us and Sen, Swapneel and Guler, Basak}, 
-    year={2026}
+```bibtex
+@inproceedings{MineGrad2026,
+  title={MineGrad: Gradient Inversion Attacks on LoRA Fine-Tuning},
+  author={Sami, Hasin Us and Sen, Swapneel and Guler, Basak},
+  booktitle={Proceedings of the Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics (AISTATS)},
+  year={2026}
 }
+```bibtex
