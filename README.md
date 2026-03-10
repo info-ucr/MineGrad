@@ -19,4 +19,4 @@ This repository contains the code associated with the attack propsed in the pape
   booktitle={Proceedings of the Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics (AISTATS)},
   year={2026}
 }
-```bibtex
+```
