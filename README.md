@@ -10,3 +10,11 @@ This repository contains the code associated with the attack propsed in the pape
 4. reconstruction.py contains the code for reconstructing fine-tuning sample from the gradients.
 5. Run LORA_Attack.ipynb that will call all the functions in the above files and output recovered texts.
 6. This is a sample code for training on Yahoo Answers dataset.
+
+## If you find this project useful, please cite
+@article{MineGrad2025, 
+    title={Minegrad: Gradient Inversion Attacks on LoRA Fine-Tuning}, 
+    journal={Proceedings of the Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics}, 
+    author={Sami, Hasin Us and Sen, Swapneel and Guler, Basak}, 
+    year={2026}
+}
